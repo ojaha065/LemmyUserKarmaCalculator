@@ -2,13 +2,16 @@
 // @name Lemmy User Karma Calculator
 // @namespace kissakala.fi
 // @version 1.0.0
-// @description Lemmy User Karma Calculator
+// @description Adds a badge displaying the user's karma (total number of upvotes received) to the lemmy-ui profile page
 // @author JHaiko
 // @match *://*/u/*
 // @run-at document-idle
 // @run-in normal-tabs
 // @sandbox DOM
 // @connect *
+// @updateURL https://raw.githubusercontent.com/ojaha065/LemmyUserKarmaCalculator/refs/heads/main/lemmyUserKarmaCalculator.js
+// @downloadURL https://raw.githubusercontent.com/ojaha065/LemmyUserKarmaCalculator/refs/heads/main/lemmyUserKarmaCalculator.js
+// @supportURL https://github.com/ojaha065/LemmyUserKarmaCalculator/issues
 // ==/UserScript==
 
 (function() {
