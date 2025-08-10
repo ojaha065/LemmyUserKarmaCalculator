@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name Lemmy User Karma Calculator
 // @namespace kissakala.fi
-// @version 1.1.0
+// @version 1.1.1
 // @description Adds a badge displaying the user's karma (total number of upvotes received) to the lemmy-ui profile page
 // @author JHaiko
-// @include *
+// @match *://*/*
 // @run-at document-idle
 // @run-in normal-tabs
 // @sandbox DOM
