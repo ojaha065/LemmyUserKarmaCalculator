@@ -9,8 +9,8 @@
 // @run-in normal-tabs
 // @sandbox DOM
 // @connect *
-// @updateURL https://raw.githubusercontent.com/ojaha065/LemmyUserKarmaCalculator/refs/heads/main/lemmyUserKarmaCalculator.js
-// @downloadURL https://raw.githubusercontent.com/ojaha065/LemmyUserKarmaCalculator/refs/heads/main/lemmyUserKarmaCalculator.js
+// @updateURL https://raw.githubusercontent.com/ojaha065/LemmyUserKarmaCalculator/refs/heads/main/lemmyUserKarmaCalculator.user.js
+// @downloadURL https://raw.githubusercontent.com/ojaha065/LemmyUserKarmaCalculator/refs/heads/main/lemmyUserKarmaCalculator.user.js
 // @supportURL https://github.com/ojaha065/LemmyUserKarmaCalculator/issues
 // ==/UserScript==
 
